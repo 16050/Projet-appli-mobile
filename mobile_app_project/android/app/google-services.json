@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094328985096",
+    "firebase_url": "https://school-managing-app.firebaseio.com",
+    "project_id": "school-managing-app",
+    "storage_bucket": "school-managing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094328985096:android:56a9218ece9b133bc393bd",
+        "android_client_info": {
+          "package_name": "com.mobile_app_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094328985096-nur921gh7llth5ogfh80o1a03vta04am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO2b-mWxh3mnwmD6nGnRjdz6FJ-r5cLgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094328985096-nur921gh7llth5ogfh80o1a03vta04am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
